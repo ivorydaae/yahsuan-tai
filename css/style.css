@@ -1107,7 +1107,7 @@ a.project-link{
   font-weight: 500;
   color: rgb(179,61,126);
 }
-a.project-name{
+.project-name{
   font-weight: bold;
   color: rgb(61, 61, 61);
 }
