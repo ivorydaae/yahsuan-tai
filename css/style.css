@@ -1198,6 +1198,12 @@ a.project-link{
 }
 .contact-info{
 	color: #3A43E4;
+
+}
+
+#cv-subtitle {
+	font-size: 1em;
+	font-weight: 600;
 }
 
 ul.social-icons {
